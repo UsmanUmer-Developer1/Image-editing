@@ -1,0 +1,1 @@
+This project is a simple yet powerful online image editor. Users can upload images, apply multiple visual filters, adjust image properties, and download the final result. Built entirely with HTML, CSS, and JavaScript, it runs completely in the browser without any backend. Perfect for learning front-end web development and browser-based image manipulation.
